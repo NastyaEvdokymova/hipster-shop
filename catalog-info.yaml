@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: NastyaEvdokymova/hipster-shop
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: prod
   owner: NastyaEvdokymova
